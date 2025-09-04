@@ -5,7 +5,7 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Your Details
-- [Name] - [Branch] - [Semester]
+- Chandana Chandran - ECE - S3
 
 
 
@@ -14,18 +14,23 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Pookalam Description
-Brief description about your pookalam. What makes it special and different.
+A Python script that generates a vibrant Onam Pookalam (floral carpet) using OpenCV and NumPy.
 
 
 
 ### Technologies Used 
+Python: Programming language used to write the script.
 
+OpenCV (cv2): For drawing shapes, displaying, and saving the image.
+
+NumPy: For creating the image canvas and doing math (like angles and positions).
 
 ### Video explaining How you build the pookalam
 
 
 
 ### Screenshots
+https://image2url.com/images/1756979356573-f1d3f2d4-80f5-4abc-810e-2a693e92cc44.png
 
 
 
